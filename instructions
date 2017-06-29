@@ -1,0 +1,3 @@
+#1. Druid need one column in format of (yyyy:mm:ddThh:mm:ss:mis) eg: 2015:02:01T01:01:01:000 mis--->milli seconds
+#2. I should convert my database into json, so that i can easily modify it for the program which converts the my database into json look into convert.py
+#3. In my database i have a column in the name of issue-d that is in the format of mmm-yyyy eg: DEC-2015. for this there is seperate program in the name of dateform.py
